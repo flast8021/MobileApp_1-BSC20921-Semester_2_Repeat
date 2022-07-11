@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1064739975746",
+    "project_id": "ecorner-8e272",
+    "storage_bucket": "ecorner-8e272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064739975746:android:5246cb5bc045e581bd33db",
+        "android_client_info": {
+          "package_name": "com.ecorner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064739975746-9vsbok7okk2fqncnheo8v29c47vsg4ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ecorner",
+            "certificate_hash": "547e481517de03ee25581ba6c6818a41432591eb"
+          }
+        },
+        {
+          "client_id": "1064739975746-uugvpbg5s3fgdita8jsg8qpr6l2q4all.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxRWjVVI9HFZxisHDfnEhwNqiHgxjy2EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064739975746-uugvpbg5s3fgdita8jsg8qpr6l2q4all.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
